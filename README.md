@@ -4,13 +4,21 @@ This app has some exciting AR Filters to play with. These Filters are developed 
 ### How did we do it 
 1. First we created an app in Unity which has AR Filters in which the user can click the snapshot and the app stores that snap into storage at a specific location and the app terminates itself.
 2. Second we created the app library and imported it to Android Studios where we made an app which takes the latest snap from the folder where the unity app stored the snaps and display it in the imageview.
-3. The user also has option to upload it to FireStore.
+3. The user also has option to upload it to FireStore not only filter images but also any image from gallery.
 
 ### How to SetUp the project in Android Studios
 **Step 1.** Download this Project and open it in Android Studios.<br>
 **Step 2.** Download the Unity Library from the <a href="https://drive.google.com/drive/folders/1XbMmsOlqrErZuj4fsZ2iLA2f13mKmX6H?usp=sharing">link</a>. <br>
 **Step 3.** Open the settings.gradle file and on 10th line change the address to the address where you have downloaded the unity library.<br>
 **Step 4.** Sync the gradle again and you are good to go.
+
+### Error Developer may find while working on project
+**1. Manifest Merger Error**<br>
+To resolve this error one the unity library module select android.manifest file and reformat its code and delete the intent of unity activity and try again.
+**2. NDK Error**
+To resolve this error open the project structure under file menu, select modules ansd click on unity library and select NDK.<br>
+Remember NDK we used in the project must be same NDK version used in the Unity so please make sure NDK version must be same.<br>
+The version we used of NDK is **21.3.6528147**.
 
 **Note - In this app the devlopers can only contribute in the android part of the app if any user want to contribute in filter part that project is on this <a href="https://github.com/ashut0sh75/ARfilter-2">link.</a>**
 
