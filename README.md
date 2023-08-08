@@ -9,5 +9,11 @@ This app has some exciting AR Filters to play with. These Filters are developed 
 ### How to SetUp the project in Android Studios
 **Step 1.** Download this Project and open it in Android Studios.
 **Step 2.** Download the Unity Library from the link 
+**Step 3.** Open the settings.gradle file and on 10th line change the address to the address where you have downloaded the unity library.
+**Step 4.** Sync the gradle again and you are good to go.
+
+### Note - In this app the devlopers can only contribute in the android part of the app if any user want to contribute in filter part that project is on this link.
+
+
 
 
