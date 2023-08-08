@@ -1,13 +1,62 @@
-# virtual_filters
+## AR-Filter-app
+This app has some exciting AR Filters to play with. These Filters are developed using unity and then it was exported to Android Studios to achieve more enhances in functionality.
 
-## Important
+### How did we do it 
+1. First we created an app in Unity which has AR Filters in which the user can click the snapshot and the app stores that snap into storage at a specific location and the app terminates itself.
+2. Second we created the app library and imported it to Android Studios where we made an app which takes the latest snap from the folder where the unity app stored the snaps and display it in the imageview.
+3. The user also has option to upload it to FireStore.
 
-## How to Setup the Project 
+### How to SetUp the project in Android Studios
+**Step 1.** Download this Project and open it in Android Studios.<br>
+**Step 2.** Download the Unity Library from the <a href="https://drive.google.com/drive/folders/1XbMmsOlqrErZuj4fsZ2iLA2f13mKmX6H?usp=sharing">link</a>. <br>
+**Step 3.** Open the settings.gradle file and on 10th line change the address to the address where you have downloaded the unity library.<br>
+**Step 4.** Sync the gradle again and you are good to go.
 
-### Step 1: Open this repository in Android Studios.(Error may generate in Gradle Build)
-### Step 2: Download the "unityLibrary" folder from https://drive.google.com/drive/folders/1XbMmsOlqrErZuj4fsZ2iLA2f13mKmX6H?usp=share_link
-### Step 3: Go to "setting.gradle" file of your project and replace the 10th line's address with the  address of your "unitylibrary" folder.
-### Step 4: Click on Sync Now.
+**Note - In this app the devlopers can only contribute in the android part of the app if any user want to contribute in filter part that project is on this <a href="https://github.com/ashut0sh75/ARfilter-2">link.</a>**
+
+**This project is eagerly waiting for excited contributers who wants to contribute. The contributer must follow some set of rules which needs to be followed while contributing.**
+
+### Please Star this repository while contributing, if you like this project.
+
+## Rules need to be followed
+
+ **Step 1.** Contributer must create an issue describing the area he wants to contribute in. Contributer need to give a detailed explanation about it.<br>
+**Step 2.**  After the issue has been created, he needs to wait until the task is assigned to him. Once the the issue is assigned to him, he can start working on it.<br>
+**Step 3.** After working on the task contributer needs to generate a pull request. After the pull request has been generated, contributer must wait for the response.<br>
+
+## Below are some sample images of the app
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+  }
+
+  .image {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+</head>
+<body>
+
+<div class="image-grid">
+  <img class="image" src="image1.jpg" alt="Image 1">
+  <img class="image" src="image2.jpg" alt="Image 2">
+  <img class="image" src="image3.jpg" alt="Image 3">
+  <img class="image" src="image4.jpg" alt="Image 4">
+</div>
+
+</body>
+</html>
 
 
-The project should set up correctly. 
+
+
+
+
+
+
