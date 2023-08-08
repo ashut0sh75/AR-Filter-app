@@ -34,33 +34,27 @@ The version we used of NDK is **21.3.6528147**.<br>
 **Step 3.** After working on the task contributer needs to generate a pull request. After the pull request has been generated, contributer must wait for the response.<br>
 
 ## Below are some sample images of the app
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .image-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 10px;
-  }
+<table align="center">
+  <tr>
+    <td style="padding: 20px;">
+      <img src="App Screenshots/Image 1.jpg" width="300" height="500" alt="Image 1">
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td style="padding: 20px;">
+      <img src="App Screenshots/Image 2.jpg" width="300" height="500" alt="Image 2">
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 20px;">
+      <img src="App Screenshots/Image 3.jpg" width="300" height="500" alt="Image 3">
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td style="padding: 20px;">
+      <img src="App Screenshots/Image 4.jpg" width="300" height="500" alt="Image 4">
+    </td>
+  </tr>
+</table>
 
-  .image {
-    max-width: 100%;
-    height: auto;
-  }
-</style>
-</head>
-<body>
 
-<div class="image-grid">
-  <img class="image" src="Image1.jpg" alt="Image 1">
-  <img class="image" src="Image2.jpg" alt="Image 2">
-  <img class="image" src="Image3.jpg" alt="Image 3">
-  <img class="image" src="Image4.jpg" alt="Image 4">
-</div>
 
-</body>
-</html>
 
 
 
