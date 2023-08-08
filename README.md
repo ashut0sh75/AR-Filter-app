@@ -14,6 +14,17 @@ This app has some exciting AR Filters to play with. These Filters are developed 
 
 **Note - In this app the devlopers can only contribute in the android part of the app if any user want to contribute in filter part that project is on this <a href="https://github.com/ashut0sh75/ARfilter-2">link.</a>**
 
+**This project is eagerly waiting for excited contributers who wants to contribute. The contributer must follow some set of rules which needs to be followed while contributing.**
+
+### Please Star this repository while contributing, if you like this project.
+
+## Rules need to be followed
+
+ **Step 1.** Contributer must create an issue describing the area he wants to contribute in. Contributer need to give a detailed explanation about it.<br>
+**Step 2.**  After the issue has been created, he needs to wait until the task is assigned to him. Once the the issue is assigned to him, he can start working on it.<br>
+**Step 3.** After working on the task contributer needs to generate a pull request. After the pull request has been generated, contributer must wait for the response.<br>
+
+
 
 
 
