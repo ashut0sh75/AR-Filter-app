@@ -24,6 +24,36 @@ This app has some exciting AR Filters to play with. These Filters are developed 
 **Step 2.**  After the issue has been created, he needs to wait until the task is assigned to him. Once the the issue is assigned to him, he can start working on it.<br>
 **Step 3.** After working on the task contributer needs to generate a pull request. After the pull request has been generated, contributer must wait for the response.<br>
 
+## Below are some sample images of the app
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+  }
+
+  .image {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+</head>
+<body>
+
+<div class="image-grid">
+  <img class="image" src="image1.jpg" alt="Image 1">
+  <img class="image" src="image2.jpg" alt="Image 2">
+  <img class="image" src="image3.jpg" alt="Image 3">
+  <img class="image" src="image4.jpg" alt="Image 4">
+</div>
+
+</body>
+</html>
+
+
 
 
 
