@@ -53,10 +53,10 @@ The version we used of NDK is **21.3.6528147**.<br>
 <body>
 
 <div class="image-grid">
-  <img class="image" src="image1.jpg" alt="Image 1">
-  <img class="image" src="image2.jpg" alt="Image 2">
-  <img class="image" src="image3.jpg" alt="Image 3">
-  <img class="image" src="image4.jpg" alt="Image 4">
+  <img class="image" src="Image1.jpg" alt="Image 1">
+  <img class="image" src="Image2.jpg" alt="Image 2">
+  <img class="image" src="Image3.jpg" alt="Image 3">
+  <img class="image" src="Image4.jpg" alt="Image 4">
 </div>
 
 </body>
