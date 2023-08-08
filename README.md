@@ -14,11 +14,12 @@ This app has some exciting AR Filters to play with. These Filters are developed 
 
 ### Error Developer may find while working on project
 **1. Manifest Merger Error**<br>
-To resolve this error one the unity library module select android.manifest file and reformat its code and delete the intent of unity activity and try again.
-**2. NDK Error**
+To resolve this error one the unity library module select android.manifest file and reformat its code and delete the intent of unity activity and try again.<br>
+
+**2. NDK Error**<br>
 To resolve this error open the project structure under file menu, select modules ansd click on unity library and select NDK.<br>
 Remember NDK we used in the project must be same NDK version used in the Unity so please make sure NDK version must be same.<br>
-The version we used of NDK is **21.3.6528147**.
+The version we used of NDK is **21.3.6528147**.<br>
 
 **Note - In this app the devlopers can only contribute in the android part of the app if any user want to contribute in filter part that project is on this <a href="https://github.com/ashut0sh75/ARfilter-2">link.</a>**
 
