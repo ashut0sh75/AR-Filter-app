@@ -33,6 +33,8 @@ The version we used of NDK is **21.3.6528147**.<br>
 **Step 2.**  After the issue has been created, he needs to wait until the task is assigned to him. Once the the issue is assigned to him, he can start working on it.<br>
 **Step 3.** After working on the task contributer needs to generate a pull request. After the pull request has been generated, contributer must wait for the response.<br>
 
+##### If you have any questions, we can communicate in issues or you can e-mail me at **ashusanugupta999@gmail.com**. 
+
 ## Below are some sample images of the app
 <table align="center">
   <tr>
