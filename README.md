@@ -1,5 +1,13 @@
-## AR-Filter-app
-This app has some exciting AR Filters to play with. These Filters are developed using unity and then it was exported to Android Studios to achieve more enhances in functionality.
+<div align="center"> 
+
+# Welcome to the AR-Filter-app Repository!
+ <td align="center">
+      <h3></h3>
+      <img src="App Screenshots/ARimage.png" width="300" height="250">
+  <h3>This app has some exciting AR Filters to play with. These Filters are developed using unity and then it was exported to Android Studios to achieve more enhances in functionality.</h3>
+    </td>
+    </div>
+
 
 ### How did we do it 
 1. First we created an app in Unity which has AR Filters in which the user can click the snapshot and the app stores that snap into storage at a specific location and the app terminates itself.
